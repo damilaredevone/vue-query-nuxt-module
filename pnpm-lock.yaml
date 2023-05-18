@@ -2,14 +2,14 @@ lockfileVersion: 5.4
 
 specifiers:
   '@damilaredev/tsconfig': 1.5.2
-  '@types/node': 18.15.11
+  '@types/node': 18.16.13
   bumpp: 9.1.0
   tsup: 6.6.3
   typescript: 4.9.5
 
 devDependencies:
   '@damilaredev/tsconfig': 1.5.2
-  '@types/node': 18.15.11
+  '@types/node': 18.16.13
   bumpp: 9.1.0
   tsup: 6.6.3_typescript@4.9.5
   typescript: 4.9.5
@@ -249,8 +249,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@types/node/18.15.11:
-    resolution: {integrity: sha512-E5Kwq2n4SbMzQOn6wnmBjuK9ouqlURrcZDVfbo9ftDDTFt3nk7ZKK4GMOzoYgnpQJKcxwQw+lGaBvvlMo0qN/Q==}
+  /@types/node/18.16.13:
+    resolution: {integrity: sha512-uZRomboV1vBL61EBXneL4j9/hEn+1Yqa4LQdpGrKmXFyJmVfWc9JV9+yb2AlnOnuaDnb2PDO3hC6/LKmzJxP1A==}
     dev: true
 
   /acorn/8.8.2:
