@@ -30,7 +30,7 @@
   "homepage": "https://github.com/damilaredevone/ts-plugin-starter#readme",
   "devDependencies": {
     "@damilaredev/tsconfig": "1.5.2",
-    "@types/node": "18.18.9",
+    "@types/node": "18.19.68",
     "bumpp": "9.1.0",
     "tsup": "7.2.0",
     "typescript": "5.2.2"
