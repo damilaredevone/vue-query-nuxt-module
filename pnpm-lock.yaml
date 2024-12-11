@@ -9,8 +9,8 @@ devDependencies:
     specifier: 1.5.2
     version: 1.5.2
   '@types/node':
-    specifier: 18.18.9
-    version: 18.18.9
+    specifier: 18.19.68
+    version: 18.19.68
   bumpp:
     specifier: 9.1.0
     version: 9.1.0
@@ -256,8 +256,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@types/node@18.18.9:
-    resolution: {integrity: sha512-0f5klcuImLnG4Qreu9hPj/rEfFq6YRc5n2mAjSsH+ec/mJL+3voBH0+8T7o8RpFjH7ovc+TRsL/c7OYIQsPTfQ==}
+  /@types/node@18.19.68:
+    resolution: {integrity: sha512-QGtpFH1vB99ZmTa63K4/FU8twThj4fuVSBkGddTp7uIL/cuoLWIUSL2RcOaigBhfR+hg5pgGkBnkoOxrTVBMKw==}
     dependencies:
       undici-types: 5.26.5
     dev: true
