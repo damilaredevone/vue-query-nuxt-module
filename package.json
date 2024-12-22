@@ -31,7 +31,7 @@
   "devDependencies": {
     "@damilaredev/tsconfig": "1.5.2",
     "@types/node": "18.18.9",
-    "bumpp": "9.1.0",
+    "bumpp": "9.9.2",
     "tsup": "7.2.0",
     "typescript": "5.2.2"
   }
